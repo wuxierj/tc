@@ -1,0 +1,9 @@
+{
+  "popup_enabled": true,
+  "force_update": false,
+  "latest_version": "1.0.7",
+  "download_url": "https://pan.quark.cn/s/079c931d16d5",
+  "update_content": "1. 修复免广告奖励闪退问题\n2. 优化Android 15兼容性\n3. 关闭广告即可获取奖励",
+  "notice_title": "更新提示",
+  "notice_content": "发现新版本，是否立即更新？"
+}
